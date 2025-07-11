@@ -200,14 +200,3 @@ FRONTEND_URL=https://your-frontend-url.com
 4. Push to the branch
 5. Create a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🆘 Support
-
-For support, email support@ratestore.com or create an issue in the repository.
-
----
-
-Built with ❤️ using React.js, Nest.js, and MySQL
